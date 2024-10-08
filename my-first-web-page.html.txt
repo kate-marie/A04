@@ -1,0 +1,15 @@
+<DOCTYPE html>
+<html>
+	<header>
+	</header>
+	
+	<body>
+		<h1> My First Web Page </h1>
+		<p> User Name: Kmr33 - Katelyn Reyes </p>
+		<p> Course Number/Section: IS117-003 </p>
+		<p> Course Name: Intro to Web Development </p>
+		<p> Copyright Katelyn Reyes, Oct 15, 2024 Privacy Statement | Terms of Service </p>
+
+	</body>
+
+</html>
